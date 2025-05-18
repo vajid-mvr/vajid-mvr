@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there! I'm Vajid
 
-<!--
-**vajid-mvr/vajid-mvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**First account lost, but not the drive to create. Onwards! 🔧🚀**
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Interests
+- Web Development (HTML, CSS, JavaScript)
+- WordPress & Bootstrap
+- UI/UX Design
+- Creative Projects & Business Ideas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- React.js
+- APIs & Backend basics
+
+### 📫 Reach Me
+- 📷 Instagram: [@vajid.___x](https://www.instagram.com/vajid.___x/)
+
+---
+
+> "Build. Break. Learn. Repeat." 💡
