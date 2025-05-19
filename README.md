@@ -1,3 +1,4 @@
+https://github-profile-trophy.vercel.app/?username=vajid-mvr
 # 👋 Hi there! I'm Vajid
 
 **First account lost, but not the drive to create. Onwards! 🔧🚀**
@@ -19,7 +20,3 @@
 
 > "Build. Break. Learn. Repeat." 💡
 ### GitHub Stats
-
-![Vajid's GitHub stats](https://github-readme-stats.vercel.app/api?username=vajid-mvr&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vajid-mvr&layout=compact&theme=radical)
