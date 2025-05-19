@@ -1,4 +1,4 @@
-https://github-profile-trophy.vercel.app/?username=vajid-mvr
+
 # 👋 Hi there! I'm Vajid
 
 **First account lost, but not the drive to create. Onwards! 🔧🚀**
