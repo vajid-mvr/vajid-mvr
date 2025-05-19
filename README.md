@@ -93,12 +93,15 @@ I explore new technologies, programming languages, and concepts to better my kno
 ![Game Development](https://img.shields.io/badge/-Game%20Development-FF4500?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
  
-## 💵 Support me
+##  💵 Support me
 Help me keep doing what I love. I will keep making software because it is what I enjoy doing, but if you like one of my projects or want to support me you can do so here. I appreciate all of it and it is a nice motivator to keep me going.
+
+<a href="https://www.buymeacoffee.com/vajd" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ### 📫 Reach Me
 - 📷 Instagram: [@vajid.___x](https://www.instagram.com/vajid.___x/)
 - 📧 Mail : vajidmvr@Gmail.com 
 ---
 
 > "Build. Break. Learn. Repeat." 💡
-### GitHub Stats
+
