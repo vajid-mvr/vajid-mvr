@@ -15,7 +15,7 @@
 
 ### 📫 Reach Me
 - 📷 Instagram: [@vajid.___x](https://www.instagram.com/vajid.___x/)
-
+- 📧 Mail : vajidmvr@Gmail.com 
 ---
 
 > "Build. Break. Learn. Repeat." 💡
