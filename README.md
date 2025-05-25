@@ -1,5 +1,5 @@
 
- 👋 Hi there! I'm Vajid
+ 👋 Hi there! I'm Abdul Vajid
 
 **First account lost, but not the drive to create. Onwards! 🔧🚀**
 
